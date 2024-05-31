@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="usmandegrt"  />
   </a> 
 </p>
-<br />
 
 <!-- About Section
  # About me
@@ -75,9 +74,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-
 <br/>
-
 <!--
 ## Top Open Source -
 [![ReactTS](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=react-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/react-ts-starter)
@@ -92,7 +89,6 @@
 -->
 <hr/>
 <br/>
-
 <p align="center">
   <a href="https://github.com/devusmanrafiq">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="Usman's GitHub streak"/>
@@ -112,4 +108,4 @@
 </a>
 
 
-![Usman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=devusmanrafiq&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Usman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=devusmanrafiq&custom_title=Usman%20Rafiq's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
