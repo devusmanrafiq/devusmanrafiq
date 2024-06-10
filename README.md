@@ -47,12 +47,8 @@
    <a href="https://komarev.com/ghpvc/?username=devusmanrafiq" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=devusmanrafiq&style=for-the-badge" alt="devusmanrafiq"  />
   </a>
-<!-- Profile View Count -->
-
 </p>
 
-  [![Instagram](https://img.shields.io/badge/-usmandegrt-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/usmandegrt)
-![](https://komarev.com/ghpvc/?username=devusmanrafiq)
 <!-- About Section
  # About me
  
