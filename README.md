@@ -45,10 +45,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="usmandegrt"  />
   </a>
 <!-- Profile View Count -->
-<a href="https://github.com/devusmanrafiq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devusmanrafiq&theme=buefy&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devusmanrafiq&theme=buefy&layout=compact&count_private=true" />
-</a>
+![](https://komarev.com/ghpvc/?username=thefazeelqureshi&style=flat)
 </p>
 
 <!-- About Section
