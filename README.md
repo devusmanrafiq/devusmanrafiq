@@ -41,10 +41,11 @@
  <a href="https://instagram.com/usmandegrt" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="usmandegrt" />
  </a> 
-  
-  
  <a href="https://facebook.com/usmandegrt" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="usmandegrt"  />
+  </a>
+   <a href="https://komarev.com/ghpvc/?username=devusmanrafiq" target="_blank">
+  <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="devusmanrafiq"  />
   </a>
 <!-- Profile View Count -->
 
