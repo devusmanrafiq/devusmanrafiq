@@ -41,12 +41,13 @@
  <a href="https://instagram.com/usmandegrt" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="usmandegrt" />
  </a> 
+  
+  [![Instagram](https://img.shields.io/badge/-thefazeelahmed-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thefazeelahmed)
+  
  <a href="https://facebook.com/usmandegrt" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="usmandegrt"  />
   </a>
 <!-- Profile View Count -->
-  
-![](https://komarev.com/ghpvc/?username=devusmanrafiq&style=flat)
 ![](https://komarev.com/ghpvc/?username=devusmanrafiq)
 </p>
 
