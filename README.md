@@ -22,6 +22,11 @@
 <p align="center">
   <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,aws,materialui,netlify,git,github,figma,postman,vite,npm,yarn,notion,stackoverflow,vscode&perline=8)" />
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <hr/>
 <br/>
