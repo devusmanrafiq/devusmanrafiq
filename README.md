@@ -20,7 +20,7 @@
 
 ## Use To Code
 <p align="center">
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,aws,materialui,netlify,git,github,figma,postman,vite,npm,yarn,notion,stackoverflow,vscode&perline=8)
+  <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,aws,materialui,netlify,git,github,figma,postman,vite,npm,yarn,notion,stackoverflow,vscode&perline=8)" />
 </p>
 
 <hr/>
