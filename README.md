@@ -2,25 +2,11 @@
 <h1 align="center">Hi 👋, I'm Usman Rafiq</h1>
 <h3 align="center">「 A Passionate Front End Developer Islamabad, Pakistan 」</h3>
 
+<hr/>
+
 - 📫 How to reach me **devusmanrafiq@gmail.com**
 
-<p align="center">
- <a href="https://linkedin.com/in/usmandegrt" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="usmandegrt"/>
- </a>
- <a href="https://twitter.com/usmandegrt" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/usmandegrt" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="usmandegrt" />
- </a> 
- <a href="https://facebook.com/usmandegrt" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="usmandegrt"  />
-  </a>
-   <a href="https://komarev.com/ghpvc/?username=devusmanrafiq" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=devusmanrafiq&style=for-the-badge" alt="devusmanrafiq"  />
-  </a>
-</p>
+<hr/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
