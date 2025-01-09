@@ -36,6 +36,8 @@
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 <br/>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,nextjs)](https://skillicons.dev)
+
 <hr/>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&" alt="devusmanrafiq" /></p>
