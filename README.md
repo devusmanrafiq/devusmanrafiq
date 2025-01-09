@@ -1,5 +1,5 @@
 <!-- Intro  -->
-<div1 align="center">
+<div align="center">
   <h1>Hi 👋, I'm Usman Rafiq</h1>
   <h3>「 A Passionate Front End Developer Islamabad, Pakistan 」</h3>
 </div>
