@@ -36,7 +36,7 @@
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 <br/>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,nextjs,ant-design)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,nextjs,antdesign)
 
 <hr/>
 <br/>
