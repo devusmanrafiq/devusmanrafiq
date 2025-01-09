@@ -1,23 +1,6 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am 
-                <b>Usman Rafiq</b>
-        </samp>
-</h3>
+<h1 align="center">Hi 👋, I'm Usman Rafiq</h1>
+<h3 align="center">「 A passionate Front End Developer Islamabad, Pakistan 」</h3>
 
 
 <p align="center"> 
@@ -91,11 +74,7 @@
 -->
 <hr/>
 <br/>
-<p align="center">
-  <a href="https://github.com/devusmanrafiq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="Usman's GitHub streak"/>
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&" alt="devusmanrafiq" /></p>
 
 <!--
 <p align="center">
