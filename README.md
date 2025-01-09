@@ -17,6 +17,7 @@
 <a href="https://instagram.com/usmandegrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usmandegrt" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devusmanrafiq&label=Profile%20views&color=0e75b6&style=flat" alt="devusmanrafiq" /> </p>
 
 ## Use To Code
 <p align="center">
