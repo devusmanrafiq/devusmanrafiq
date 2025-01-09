@@ -4,7 +4,7 @@
 
 <hr/>
 
-- 📫 How to reach me **devusmanrafiq@gmail.com**
+<p> 📫 How to reach me **devusmanrafiq@gmail.com** </p>
 
 <hr/>
 
