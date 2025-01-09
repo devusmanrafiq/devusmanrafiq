@@ -1,18 +1,6 @@
 <!-- Intro  -->
 <h1 align="center">Hi 👋, I'm Usman Rafiq</h1>
-<h3 align="center">「 A passionate Front End Developer Islamabad, Pakistan 」</h3>
-
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a Front End Developer from <b>Islamabad, Pakistan</b> 」
-    <br>
-    「 Working at <a href="https://www.irsolutions.tech/" target="_blank">IR Solutions</a> 」
-    <br>
-    <br>
-  </samp>
-</p>
+<h3 align="center">「 A Passionate Front End Developer Islamabad, Pakistan 」</h3>
 
 <p align="center">
  <a href="https://linkedin.com/in/usmandegrt" target="_blank">
