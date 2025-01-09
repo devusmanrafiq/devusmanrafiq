@@ -40,7 +40,7 @@
 
 <hr/>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&" alt="devusmanrafiq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" /></p>
 
 <!--
 <p align="center">
