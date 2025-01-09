@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Usman Rafiq</h1>
 <h3 align="center">「 A Passionate Front End Developer Islamabad, Pakistan 」</h3>
 
+- 📫 How to reach me **devusmanrafiq@gmail.com**
+
 <p align="center">
  <a href="https://linkedin.com/in/usmandegrt" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="usmandegrt"/>
@@ -20,17 +22,16 @@
   </a>
 </p>
 
-<!-- About Section
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: devusmanrafiq@gmail.com<br/><br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/usmandegrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmandegrt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devusmanrafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devusmanrafiq" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/devusmanrafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devusmanrafiq" height="30" width="40" /></a>
+<a href="https://fb.com/usmandegrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usmandegrt" height="30" width="40" /></a>
+<a href="https://instagram.com/usmandegrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usmandegrt" height="30" width="40" /></a>
 </p>
- -->
+
+
 ## Use To Code
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,18 +49,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 <br/>
-<!--
-## Top Open Source -
-[![ReactTS](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=react-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/react-ts-starter)
-[![NextTS](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=next-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/next-ts-starter)
-[![Usman Rafiq's Readme](https://github-readme-stats.vercel.app/api/pin/?username=devusmanrafiq&repo=devusmanrafiq&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/devusmanrafiq)
 
-<p align="left">
-  <a href="https://github.com/devusmanrafiq?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
--->
 <hr/>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&" alt="devusmanrafiq" /></p>
