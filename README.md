@@ -16,8 +16,7 @@
 <a href="https://fb.com/usmandegrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usmandegrt" height="30" width="40" /></a>
 <a href="https://instagram.com/usmandegrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usmandegrt" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devusmanrafiq&label=Profile%20views&color=0e75b6&style=flat" alt="devusmanrafiq" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=devusmanrafiq&label=Profile%20views&color=0e75b6&style=flat" alt="devusmanrafiq" /></p>
 
 ## Use To Code
 <p align="center">
@@ -28,13 +27,13 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" /></p>
 
-<!--
+
 <p align="center">
   <a href="https://github.com/devusmanrafiq">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devusmanrafiq&theme=radical" alt="Usman's GitHub Contribution"/>
   </a>
 </p>
--->
+
 
 <p align="center" >
 <a href="https://github.com/devusmanrafiq">  
