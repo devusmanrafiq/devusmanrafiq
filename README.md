@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Usman Rafiq</h1>
 <h3 align="center">「 A Passionate Front End Developer Islamabad, Pakistan 」</h3>
 
-<hr/>
 
-<p> 📫 How to reach me **devusmanrafiq@gmail.com** </p>
 
-<hr/>
+## 📫 How to reach me **devusmanrafiq@gmail.com**
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
