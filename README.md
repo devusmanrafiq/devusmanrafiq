@@ -1,6 +1,8 @@
-
-<h1 align="center">Hi 👋, I'm Usman Rafiq</h1>
-## <h3 align="center">「 A Passionate Front End Developer Islamabad, Pakistan 」</h3>
+<!-- Intro  -->
+<div>
+  <h1 align="center">Hi 👋, I'm Usman Rafiq</h1>
+<h3 align="center">「 A Passionate Front End Developer Islamabad, Pakistan 」</h3>
+</div>
 
 
 
