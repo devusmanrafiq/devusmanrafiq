@@ -1,13 +1,11 @@
 <!-- Intro  -->
 <div align="center">
-
-  <h3>「 A Passionate Front End Developer Islamabad, Pakistan 」</h3>
+  <h1>Hi 👋, I'm Usman Rafiq</h1>
+  <h3>「 A Passionate Front End Developer from Islamabad, Pakistan 」</h3>
 </div>
 
 
-
-## 📫 How to reach me **devusmanrafiq@gmail.com**
-
+## <p align="center">📫 How to reach me **devusmanrafiq@gmail.com**</p>
 
 
 <h3 align="center">Connect with me:</h3>
