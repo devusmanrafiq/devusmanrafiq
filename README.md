@@ -25,7 +25,7 @@
 
 <hr/>
 <br/>
-<a href="https://github.com/devusmanrafiq">  
+<a align="center" href="https://github.com/devusmanrafiq">  
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" />
 </p>
@@ -42,6 +42,6 @@
 </a>  
 
 
-
+<!--
 ![Usman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=devusmanrafiq&custom_title=Usman%20Rafiq's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+-->
