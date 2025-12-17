@@ -26,7 +26,7 @@
 <hr/>
 <br/>
 
-<a style="width: max-content; align: center;" href="https://github.com/devusmanrafiq">  
+<a align="center" width="100%" href="https://github.com/devusmanrafiq">  
   <p align="center">
     <img align="center" src="https://streak-stats.demolab.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" />
   </p>
