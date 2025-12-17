@@ -25,7 +25,7 @@
 
 <hr/>
 <br/>
-<a style="margin: auto" href="https://github.com/devusmanrafiq">  
+<a style="display: block; margin: 0 auto; width: fit-content;" href="https://github.com/devusmanrafiq">  
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" />
 </p>
