@@ -29,13 +29,9 @@
 <p align="center">
   <a href="https://github.com/devusmanrafiq">  
     
-<!--
   <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" />
   </p>
-  -->
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=devusmanrafiq&theme=radical)](https://git.io/streak-stats)
   
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devusmanrafiq&theme=radical" alt="Usman's GitHub Contribution"/>
