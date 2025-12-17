@@ -25,7 +25,9 @@
 
 <hr/>
 <br/>
-<a style="display: block; margin: 0 auto; width: fit-content;" href="https://github.com/devusmanrafiq">  
+
+<p align="center">
+<a href="https://github.com/devusmanrafiq">  
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" />
 </p>
@@ -40,7 +42,7 @@
   <img alt="Usman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devusmanrafiq&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
 </p>
 </a>  
-
+</p>
 
 <!--
 ![Usman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=devusmanrafiq&custom_title=Usman%20Rafiq's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
