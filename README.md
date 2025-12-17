@@ -27,7 +27,7 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="devusmanrafiq" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=devusmanrafiq&theme=radical&border=7F3FBF&background=0D1117" alt="Usman's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devusmanrafiq&theme=radical" alt="Usman's GitHub Contribution"/>
