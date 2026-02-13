@@ -20,7 +20,7 @@
 
 ## Use To Code
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,aws,docker,materialui,bitbucket,gitlab,mongodb,nodejs,nestjs,git,github,netlify,vercel,figma,postman,vite,npm,yarn,stackoverflow,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,aws,docker,materialui,bitbucket,gitlab,mongodb,nodejs,nestjs,git,github,netlify,vercel,figma,postman,vite,npm,yarn,stackoverflow,notion,jira,vscode&perline=10" />
 </p>
 
 <hr/>
