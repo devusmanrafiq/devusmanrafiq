@@ -10,11 +10,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" /></a>
-<a href="https://linkedin.com/in/devusmanrafiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" /></a>
-<a href="https://stackoverflow.com/users/devusmanrafiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="35" /></a>
-<a href="https://fb.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" /></a>
-<a href="https://instagram.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" /></a>
+<a style="margin:0 10px;" href="https://twitter.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" /></a>
+<a style="margin:0 10px;" href="https://linkedin.com/in/devusmanrafiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" /></a>
+<a style="margin:0 10px;" href="https://stackoverflow.com/users/devusmanrafiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="35" /></a>
+<a style="margin:0 10px;" href="https://fb.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" /></a>
+<a style="margin:0 10px;" href="https://instagram.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" /></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=devusmanrafiq&label=Profile%20views&color=0e75b6&style=flat" alt="devusmanrafiq" /></p>
 
