@@ -5,7 +5,7 @@
 </div>
 
 
-## <p align="center">📫 How to reach me **dev.usmanr@irsolutions.tech**</p>
+## <p align="center">📫 Reach me at: **dev.usmanr@irsolutions.tech**</p>
 
 
 <h3 align="center">Connect with me:</h3>
