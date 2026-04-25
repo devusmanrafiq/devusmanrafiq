@@ -10,21 +10,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/usmandegrt" target="blank" style="display:inline-block; margin:0 6px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/devusmanrafiq" target="blank" style="display:inline-block; margin:0 6px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/devusmanrafiq" target="blank" style="display:inline-block; margin:0 6px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/usmandegrt" target="blank" style="display:inline-block; margin:0 6px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/usmandegrt" target="blank" style="display:inline-block; margin:0 6px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
+<a href="https://twitter.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>
+<a href="https://linkedin.com/in/devusmanrafiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+<a href="https://stackoverflow.com/users/devusmanrafiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" /></a>
+<a href="https://fb.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" /></a>
+<a href="https://instagram.com/usmandegrt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=devusmanrafiq&label=Profile%20views&color=0e75b6&style=flat" alt="devusmanrafiq" /></p>
 
